@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void RecursiveFileSearch();
+void RecursiveFileSearch(char* p);
  
 int main()
 {
