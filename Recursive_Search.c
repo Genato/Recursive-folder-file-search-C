@@ -7,7 +7,7 @@ void RecursiveFileSearch();
  
 int main()
 {
-	char start_path[MAX_PATH] = "E:\\PROGRAMMING\\C++\\LAN_spy_GUI\\*";
+	char start_path[MAX_PATH] = "";
 
 	RecursiveFileSearch(start_path);
 }
