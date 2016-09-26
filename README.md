@@ -1,2 +1,2 @@
 # Recursive-folder-file-search-C
-Recursive search through child folders and files.
+Small console application for recursive search through child folders and files.
