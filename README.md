@@ -3,6 +3,7 @@ Small console application for recursive search through child folders and files.
 
 Functions that was used to search through folders and files.
 
--FindFirstFileA(LPCSTR lpFileName, LPWIN32_FIND_DATAA lpfindfiledata)
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa364418(v=vs.85).aspx
 
--FindNextFileA(HANDLE hFind, LPWIN32_FIND_DATAA lpfindfiledata)
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa364428(v=vs.85).aspx
