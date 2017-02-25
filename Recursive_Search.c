@@ -12,6 +12,7 @@ int main()
 	RecursiveFileSearch(start_path);
 }
 
+//Function for recursive search
 void RecursiveFileSearch(char* p)
 {
 	char path[MAX_PATH];
