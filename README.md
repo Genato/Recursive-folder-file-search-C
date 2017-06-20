@@ -1,4 +1,4 @@
-# Recursive-folder-file-search-C
+# Recursive-folder-file-search
 Small console application for recursive search through child folders and files.
 
 Functions that was used to search through folders and files.
